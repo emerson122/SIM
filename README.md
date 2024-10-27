@@ -3,8 +3,6 @@ Este script define una clase &lt;code>SecurityToolConnector&lt;/code>, que permi
 
 <h3> Dependencia necesarias:</h3>
 
-Este bloque de código se verá así en Markdown:
-
 ``` bash
 
 pip install requests fake-useragent
